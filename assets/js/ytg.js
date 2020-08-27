@@ -130,11 +130,11 @@ function setDisplay (value) {
         setDisplay("block");
 
         document.getElementsByClassName('right-click-info')[0].style.display = "none";
-        document.getElementById("hdreslink").href = "https://youtubethumbnaildownloadhd.xyz/download.php?id=" + result + "&quality=HD";
-        document.getElementById("sdreslink").href = "https://youtubethumbnaildownloadhd.xyz/download.php?id=" + result + "&quality=SD";
-        document.getElementById("hqreslink").href = "https://youtubethumbnaildownloadhd.xyz/download.php?id=" + result + "&quality=HQ";
-        document.getElementById("mqreslink").href = "https://youtubethumbnaildownloadhd.xyz/download.php?id=" + result + "&quality=MQ";
-				document.getElementById("defreslink").href = "https://youtubethumbnaildownloadhd.xyz/download.php?id=" + result + "&quality=def";
+        document.getElementById("hdreslink").href = "https://youtubethumbnaildownloader.co/download.php?id=" + result + "&quality=HD";
+        document.getElementById("sdreslink").href = "https://youtubethumbnaildownloader.co/download.php?id=" + result + "&quality=SD";
+        document.getElementById("hqreslink").href = "https://youtubethumbnaildownloader.co/download.php?id=" + result + "&quality=HQ";
+        document.getElementById("mqreslink").href = "https://youtubethumbnaildownloader.co/download.php?id=" + result + "&quality=MQ";
+				document.getElementById("defreslink").href = "https://youtubethumbnaildownloader.co/download.php?id=" + result + "&quality=def";
 	
 
         document.getElementById("hdreslink").style.display = "inline";
